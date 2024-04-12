@@ -1,0 +1,14 @@
+body{
+    padding: 3% 35%;
+}
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+tr,td {
+    padding: 8px;
+    text-align: center;
+}
+.OszlopNev {
+    font-weight: 600;
+}
